@@ -1,3 +1,4 @@
 config.json
 known_devices.json
 test_bot.py
+/logs
