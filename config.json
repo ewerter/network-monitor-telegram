@@ -1,0 +1,6 @@
+{
+    "telegram_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "telegram_chat_id": "YOUR_TELEGRAM_CHAT_ID",
+    "subnet": "255.255.240.0",
+    "scan_interval_minutes": 20
+}
