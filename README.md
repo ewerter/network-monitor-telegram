@@ -28,7 +28,7 @@ This project is a **Telegram bot** designed to monitor network activity and noti
 
 4. Run the bot:
     ```bash
-    python bot.py
+    python main.py
     ```
 
 ## Configuration
